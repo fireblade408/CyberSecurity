@@ -87,3 +87,32 @@ Sources:
 6. Reference: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-4566
 
 GIF: https://i.imgur.com/eS4AppI.gif
+
+## Resources
+
+- [WordPress Source Browser](https://core.trac.wordpress.org/browser/)
+- [WordPress Developer Reference](https://developer.wordpress.org/reference/)
+
+GIFs created with [LiceCap](http://www.cockos.com/licecap/).
+
+## Notes
+
+Describe any challenges encountered while doing the work:
+Some vulnerabilities would work once in a while even when using the same exact code. 
+Recording with LiceCap wasn't in focus.
+
+## License
+
+    Copyright [2017] [Sunny Liang]
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+        http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.

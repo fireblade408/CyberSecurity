@@ -1,5 +1,4 @@
-# CyberSecurity
-Week 7 Assignment - WordPress vs. Kali
+# Project 7 - WordPress Pentesting
 
 Time spent: 5 hours spent in total
 

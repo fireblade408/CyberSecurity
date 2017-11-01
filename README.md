@@ -1,6 +1,10 @@
 # CyberSecurity
 Week 7 Assignment - WordPress vs. Kali
 
+Time spent: 5 hours spent in total
+
+> Objective: Find, analyze, recreate, and document 3 affecting an old version of WordPress
+
 Version of WordPress Tested: 4.2
 
 # Vulnerability 1 - Legacy Theme Preview Cross-Site Scripting (XSS)
